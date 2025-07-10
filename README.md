@@ -1,3 +1,3 @@
 # test-demo
 This is first git repository
-by - prabhu
+by - prabhu(git demo)
